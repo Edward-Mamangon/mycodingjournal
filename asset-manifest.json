@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%E2%80%9Chttp://Edward-Mamangon.github.io/mycodingjournal/static/css/main.073c9b0a.css",
-    "main.js": "/%E2%80%9Chttp://Edward-Mamangon.github.io/mycodingjournal/static/js/main.02e346e3.js",
-    "static/js/787.59555dc3.chunk.js": "/%E2%80%9Chttp://Edward-Mamangon.github.io/mycodingjournal/static/js/787.59555dc3.chunk.js",
-    "index.html": "/%E2%80%9Chttp://Edward-Mamangon.github.io/mycodingjournal/index.html",
-    "main.073c9b0a.css.map": "/%E2%80%9Chttp://Edward-Mamangon.github.io/mycodingjournal/static/css/main.073c9b0a.css.map",
-    "main.02e346e3.js.map": "/%E2%80%9Chttp://Edward-Mamangon.github.io/mycodingjournal/static/js/main.02e346e3.js.map",
-    "787.59555dc3.chunk.js.map": "/%E2%80%9Chttp://Edward-Mamangon.github.io/mycodingjournal/static/js/787.59555dc3.chunk.js.map"
+    "main.css": "/mycodingjournal/static/css/main.073c9b0a.css",
+    "main.js": "/mycodingjournal/static/js/main.4fd7f812.js",
+    "static/js/787.59555dc3.chunk.js": "/mycodingjournal/static/js/787.59555dc3.chunk.js",
+    "index.html": "/mycodingjournal/index.html",
+    "main.073c9b0a.css.map": "/mycodingjournal/static/css/main.073c9b0a.css.map",
+    "main.4fd7f812.js.map": "/mycodingjournal/static/js/main.4fd7f812.js.map",
+    "787.59555dc3.chunk.js.map": "/mycodingjournal/static/js/787.59555dc3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.02e346e3.js"
+    "static/js/main.4fd7f812.js"
   ]
 }
