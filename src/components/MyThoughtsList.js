@@ -32,8 +32,21 @@ const useStyles = makeStyles((theme) => (
 
 
 const MyThoughtsList = (props) => {
+    const getData = () => {
+
+        const datas = localStorage.getItem('MyThoughts');
+      
+        if (datas) {
+          return JSON.parse(datas);
+        }
+        else {
+          return [];
+        }
+      }
+      
+
     const mark = useStyles();
-    const [todos, setTodos] = useState([]);
+    const [todos, setTodos] = useState(getData());
 
     const handleDelete = (thoughtsList) => {
         const deletefilter = todos.filter((element, index) => {
